@@ -7,6 +7,8 @@
  * Semantic Analysis
  * Intermediate Represetation
  * Outputting translated codes
+ * 
+ * Much of the codes in this file has been removed intentionally to avoid showing the full solution of the project
  */
 #include "Parser.h"
 #include "ParseTree.h"
