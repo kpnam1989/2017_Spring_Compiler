@@ -1,12 +1,8 @@
-build:
-	To build scanner use
-	make scanner
-	
-	To build parser use
-	make parser
-	
-run:
-	bin/parser <filename>
-	or
-	bin/parser <filename> -d
-	"-d to implement a verbose mode" 
+Compiler: Theory and Practice is the first official class in Computer Science that I took. I expected the class to be challenging and rigorous as a way to test my potential in this field. 
+The main projects of the class is to build a compiler using some existing tools. The compiler has to be able to:
+-	Understand the grammar of a programming language
+-	Understand a program written using this language
+-	Able to generate an intermediate representation of this program and to translate the codes into MIPS codes
+I came in this class knowing next to nothing about C++, MIPS and other computer science jargon. Having a full time job, I often had to stay up late and even took PTO to finish the projects. I did not learn the materials and the language to finish the project. I was curious about C++, its advantages and flexibility. My experiences in C++ through this class are then very helpful for me in a project at work.
+At the end, I am extremely proud of my achievement in this class. 
+
